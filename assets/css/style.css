@@ -1,0 +1,83 @@
+body {
+
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+background-color: black;
+
+}
+
+.bg-info {
+--bs-bg-opacity: 1;
+background-color: aqua;
+
+
+}
+
+.iconos {
+text-align: center;
+color: #fff;
+
+}
+
+#destacados {
+
+  color: white;
+}
+
+#titulos {
+  color: #fff;
+}
+ 
+.section {
+background-color: black;
+
+
+}
+
+.navbar-menu {
+  color: white;
+}
+
+#contacto button {
+  color: #fff;
+
+}
+
+#Presentacion {
+  padding: 2em;
+}
+
+
+.bg-info {
+  --bs-bg-opacity: 1;
+  background-color: rgba(var(--bs-info-rgb),var(--bs-bg-opacity)) !important;
+}
+
+#enviar {
+
+color: #fff;
+
+}
+
+.bordes {
+  margin: 0 auto;
+  border: 1px;
+  background-color: black;
+  padding: 30px;
+}
+
+footer {
+color: #fff;
+padding: 1em;
+}
+
+footer i {
+  font-size: 1.7em;
+  padding: 0.2em;
+
+}
+
