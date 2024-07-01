@@ -108,3 +108,12 @@ footer i {
   margin-left: 10px; 
 }
 
+.title {
+  transition: color 0.3s;
+}
+
+
+
+#Destacados .title:hover,
+#id-quienesSomos .title:hover {
+    color: #ff6347; }
