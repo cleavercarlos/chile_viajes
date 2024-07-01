@@ -17,11 +17,27 @@ background-color: aqua;
 
 }
 
+.fa-plane {
+  font-size: 20px; 
+  
+}
+
+.fa-mountain {
+  font-size:20px;
+}
+
+.fa-road {
+  font-size: 20px;
+}
+
 .iconos {
 text-align: center;
 color: #fff;
 
 }
+
+
+
 
 #destacados {
 
@@ -46,6 +62,8 @@ background-color: black;
   color: #fff;
 
 }
+
+
 
 #Presentacion {
   padding: 2em;
